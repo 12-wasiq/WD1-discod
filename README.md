@@ -1,1 +1,1 @@
-# WD1-discod
+# WD1-twitch
